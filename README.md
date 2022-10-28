@@ -9,11 +9,12 @@ As the DNA sequence data are growing rapidly nowadays, the maintenance and annot
 | Class of Data | Link |
 | --- | --- |
 | Positive (Promoter) | [Link](https://raw.githubusercontent.com/ram89toronto/Genetics_prediction_hackathon_ga/main/PromoterSequence.txt)
-| Negative (Non-Promoter) | [Link](./data/NonPromoterSequence.txt)
+| Negative (Non-Promoter) | [Link](https://raw.githubusercontent.com/ram89toronto/Genetics_prediction_hackathon_ga/main/NonPromoterSequence.txt)
 
 ### Test Data
 Predict the classes of the sequences given in [this](./data/test.csv) csv file. The predictions should be either 0 (non-promoter) or 1 (promoter). In the test.csv, create a new column called **predictions** and submit the csv file in the link below.
 
+I was able to get best accuracy of 89%, Hoping to see someone get better result than this :)
 
 
-Good luck!
+Thank you !
