@@ -8,7 +8,7 @@ As the DNA sequence data are growing rapidly nowadays, the maintenance and annot
 
 | Class of Data | Link |
 | --- | --- |
-| Positive (Promoter) | [Link](./data/PromoterSequence.txt)
+| Positive (Promoter) | [Link](https://raw.githubusercontent.com/ram89toronto/Genetics_prediction_hackathon_ga/main/PromoterSequence.txt)
 | Negative (Non-Promoter) | [Link](./data/NonPromoterSequence.txt)
 
 ### Test Data
