@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 4: Classifying DNA sequences into Promoter and Non-promoter classes
+ Project  Classifying DNA sequences into Promoter and Non-promoter classes
 
 
 ### Problem Definition:
@@ -14,6 +14,6 @@ As the DNA sequence data are growing rapidly nowadays, the maintenance and annot
 ### Test Data
 Predict the classes of the sequences given in [this](./data/test.csv) csv file. The predictions should be either 0 (non-promoter) or 1 (promoter). In the test.csv, create a new column called **predictions** and submit the csv file in the link below.
 
-### [Submission Link](https://forms.gle/1Z1ipMSUyJhCW7NM7)
+
 
 Good luck!
